@@ -1,0 +1,44 @@
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="page-header">
+				<h1>
+					Help Page
+				</h1>
+			</div>
+			<h2>
+				Heading
+			</h2>
+			<p>
+				If you need any help you can call us.
+			</p>
+			<p>
+				<a class="btn" href="#">View details »</a>
+			</p>
+			<h2>
+				Heading
+			</h2>
+			<p>
+				Please call us before you come in due to the coronavirus.
+			</p>
+			<p>
+				<a class="btn" href="#">View details »</a>
+			</p>
+				<button class="btn btn-secondary" type="button" onclick="window.location.href = 'index.html';">
+					Home
+				</button> 
+				<button class="btn btn-secondary" type="button" onclick="window.location.href = 'index.html2';">
+					For Sale
+				</button> 
+				<button class="btn btn-secondary" type="button" onclick="window.location.href = 'index.html3';">
+					About The Company
+				</button> 
+				<button class="btn btn-secondary" type="button" onclick="window.location.href = 'index.html4';">
+					About The Employees
+				</button>
+					<button class="btn btn-secondary" type="button" onclick="window.location.href = 'index.html5';">
+					Help
+				</button>
+		</div>
+	</div>
+</div>
